@@ -61,7 +61,12 @@ application for 2D specific feature selection)
    ![Match Screenshot 2](doc/matchwin-2.png?raw=true "Match Screenshot 2")
 
 
-6.  The match can be confirmed by pressing <Enter> in the Match Window (Ctrl-Backspace will
+6.  Select a 2D feature point in the Match Window image region to match to the 3D
+    point displayed in the 3D region of the Match Window. The selected 3D point can
+    also be updated in the Match Window (in this case the PointCloud window selected
+    point is also updated).
+
+    The match can be confirmed by pressing <Enter> in the Match Window (Ctrl-Backspace will
     undo last confirmation). Press Ctrl-S to save matches to a JSON file.
 
 
