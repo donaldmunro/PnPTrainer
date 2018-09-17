@@ -66,7 +66,7 @@ application for 2D specific feature selection)
     also be updated in the Match Window (in this case the PointCloud window selected
     point is also updated).
 
-    The match can be confirmed by pressing <Enter> in the Match Window (Ctrl-Backspace will
+    The match can be confirmed by pressing Enter in the Match Window (Ctrl-Backspace will
     undo last confirmation). Press Ctrl-S to save matches to a JSON file.
 
 
